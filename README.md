@@ -3,7 +3,7 @@ coderStory
 
 A novel about a group of programmers who run a startup.
 
-For introduction and download link, please go to (page) [https://coderlmn.github.io/coderStory/] .
+For introduction and download link, please go to this [page](https://coderlmn.github.io/coderStory/) .
 
 简介
 -----------
